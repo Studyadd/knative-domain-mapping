@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/operator/cmd/operator@sha256:090d6245067999cad407edbfa624ffc6cf6151562e23b7fde8c8fb924ace3fc7
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/domain-mapping@sha256:9197c51406208c8f3cc98c2b1f69ed2ba8b88e11cf765616700abecc5dd18350
 MAINTAINER Q
